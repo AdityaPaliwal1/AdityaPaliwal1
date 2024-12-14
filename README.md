@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **react , nodejs , mongodb , Vanillajs, JWT , Socket.io , Chakra UI, Cloudinary, and many more related to MERN Stack 😁😉**
 
-- 📫 How to reach me **adityapaliwal243@gmail.com**
+- 📫 How to reach me **https://aditya-paliwal.vercel.app**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
